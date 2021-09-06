@@ -1,7 +1,7 @@
 {
-  "name": "app-redis",
+  "name": "website",
   "version": "1.0.0",
-  "description": "",
+  "description": "website1",
   "main": "index.js",
   "scripts": {
    "start":"node index.js"

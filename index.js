@@ -18,6 +18,6 @@ app.get("/", async (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log("Node server started port: $port");
+    console.log(`Node server started port: ${port}`);
 });
 

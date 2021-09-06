@@ -11,7 +11,7 @@ app.get("/", async (req, res) => {
     if(error){                                                 
       return res.status(500).json({error: error});                              
     }else{
-      return res.status(200).json({result: result,"update":"github"});                             
+      return res.status(200).json({result: result,"update":"github2"});                             
     }    
     
   })  
